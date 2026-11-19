@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<title>Film – Zadanie 16</title>
+</head>
+<body align="center">
+<h3>Film – Zadanie 16</h3>
+<video width="560" height="315" controls>
+  <source src="Walczak_film.mp4" type="video/mp4">
+  Twoja przeglądarka nie obsługuje odtwarzacza wideo.
+</video>
+</body>
+</html>
